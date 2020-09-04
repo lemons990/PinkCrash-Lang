@@ -25,7 +25,7 @@
     "cancel": "No envíes este reporte al desarrollador",
     "reportType0": "Este reporte es de una falla",
     "deviceTitle": "Establecer dispositivo",
-    "reportType1": "Este reporte es This report is a feedback request",
+    "reportType1": "Este reporte es para solicitar comentarios",
     "resetBody": "PERDERÁS TODAS LAS CONFIGURACIONES AL PRESIONAR {{next}}!",
-    "langName": "Español"
+    "langName": "Spanish"
 }
