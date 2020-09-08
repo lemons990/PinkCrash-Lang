@@ -14,4 +14,4 @@ variables
 
 # Includes work from MikeBeas
 
-- (here)[https://github.com/MikeBeas/updatekit-translation]
+- [here](https://github.com/MikeBeas/updatekit-translation)
