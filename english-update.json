@@ -1,0 +1,6 @@
+{
+  "Update Available": "Update Available",
+  "Update Body": "A new version of {{shortcutName}} has been released. You currently have version {{currentVersion}}",
+  "Install": "Install",
+  "Skip": "Skip"
+}
