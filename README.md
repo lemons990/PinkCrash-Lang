@@ -1,5 +1,5 @@
-# PinkCrash-Lang
-Lanuages for PinkCrash
+# Uncrashed-Lang
+Lanuages for Uncrashed
 
 
 Contribute by creating a pull request and follow this format:
@@ -10,3 +10,8 @@ variables
 - {{next}} next button text
 - langName: Name
 - langLocal: Name (Localized)
+
+
+# Includes work from MikeBeas
+
+- (here)[https://github.com/MikeBeas/updatekit-translation]
